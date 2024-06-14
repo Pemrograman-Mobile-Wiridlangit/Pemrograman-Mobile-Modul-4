@@ -1,0 +1,12 @@
+com.example.project2.app-jetified-window-java-1.0.0-beta04-0 C:\Users\suluh\.gradle\caches\transforms-3\8141aba134d8d57982f6acec345fdc96\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.project2.app-jetified-window-1.0.0-beta04-1 C:\Users\suluh\.gradle\caches\transforms-3\a271bec5ed0fd9e9f038cc66bea0b168\transformed\jetified-window-1.0.0-beta04\res
+com.example.project2.app-core-1.6.0-2 C:\Users\suluh\.gradle\caches\transforms-3\a3789c037322475b78de9534438132ad\transformed\core-1.6.0\res
+com.example.project2.app-jetified-annotation-experimental-1.1.0-3 C:\Users\suluh\.gradle\caches\transforms-3\e2dff2513995940b68f3fc3c755c5772\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.project2.app-debug-4 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\android\app\src\debug\res
+com.example.project2.app-main-5 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\android\app\src\main\res
+com.example.project2.app-pngs-6 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\generated\res\pngs\debug
+com.example.project2.app-resValues-7 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\generated\res\resValues\debug
+com.example.project2.app-rs-8 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\generated\res\rs\debug
+com.example.project2.app-mergeDebugResources-9 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.project2.app-mergeDebugResources-10 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.project2.app-merged_res-11 C:\Users\suluh\Documents\Codingan\Pemrograman_Mobile\flutter-project2\project2\build\app\intermediates\merged_res\debug
