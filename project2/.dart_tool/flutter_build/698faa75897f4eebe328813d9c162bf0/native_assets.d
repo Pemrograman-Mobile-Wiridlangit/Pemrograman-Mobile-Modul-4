@@ -1,1 +1,0 @@
- C:\\Users\\suluh\\Documents\\Codingan\\Pemrograman_Mobile\\flutter-project2\\project2\\.dart_tool\\flutter_build\\698faa75897f4eebe328813d9c162bf0\\native_assets.yaml: 
